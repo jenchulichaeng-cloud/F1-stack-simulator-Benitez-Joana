@@ -1,7 +1,9 @@
 # F1 Stack Simulator - Benitez, Joana
 
 **Name:** Joana Joyce F. Benitez
+
 **Section:** BS Information Technology - Web and Mobile Technology
+
 **Original starter repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter
 
 ## Activity Description
